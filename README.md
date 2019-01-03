@@ -1,6 +1,6 @@
 # c3vis - Cloud Container Cluster Visualizer
 
-Helps visualize the resource reservation of Amazon ECS clusters.
+It helps visualize the resource reservation of Amazon ECS clusters.
 
 Deploying software as “containers” promises to solve many problems with regards to interoperability of environments, speed to deploy, and cost reduction.
 But understanding where our software lives now becomes more difficult both for development and operations teams.
